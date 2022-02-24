@@ -1,4 +1,4 @@
-package com.hrm.qa.testdata;
+package com.hrm.qa.testcases;
 
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
